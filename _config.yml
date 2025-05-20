@@ -1,0 +1,23 @@
+# Jekyll theme
+remote_theme: pmarsceill/just-the-docs
+
+# Logo to display on top left corner of page
+logo: "assets/logos/sandbox-logo.png"
+
+# Link that displays on top right corner of page
+aux_links:
+  "Starborn Trials on GitHub":
+    - "//github.com/SandboxPublishingHouse/the-gospel-of-the-mirror"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2025 sandbox.house"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "http://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
