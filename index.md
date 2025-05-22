@@ -10,4 +10,6 @@ nav_order: 1
 ## Table of Contents
 {: .fs-6 .fw-300 }
 
+---
+
 [Chapter One: Wave Function and the Word](https://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror/chapter-one.html)
