@@ -105,4 +105,4 @@ but by Light Himself.
 
 ---
 
-[Chapter Three: The Collapse of Sin](https://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror/chapter-3.html)
+[Chapter Three: The Collapse of Sin](chapter-3.html)

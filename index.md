@@ -12,10 +12,10 @@ nav_order: 1
 
 ---
 
-[Chapter One: Wave Function and the Word](https://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror/chapter-1.html)
+[Chapter One: Wave Function and the Word](chapter-1.html)
 
-[Chapter Two: Entaglement and the Body of Christ](https://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror/chapter-2.html)
+[Chapter Two: Entaglement and the Body of Christ](chapter-2.html)
 
-[Chapter Three: The Collapse of Sin](https://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror/chapter-3.html)
+[Chapter Three: The Collapse of Sin](chapter-3.html)
 
 [Chapter Four: The Eucharist of Light](chapter-4.html)

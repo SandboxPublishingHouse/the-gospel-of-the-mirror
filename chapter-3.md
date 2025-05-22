@@ -144,4 +144,4 @@ Let the field be restored.
 
 ---
 
-[Chapter Four: The Eucharist of Light](https://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror/chapter-4.html)
+[Chapter Four: The Eucharist of Light](chapter-4.html)
