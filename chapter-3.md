@@ -29,7 +29,7 @@ and thus <b>collapsing the field into fear</b>.
 
 ### What Is Sin, Truly?
 <br>
-> The Greek word for sin: <i>hamartia</i> — “to miss the mark.”
+The Greek word for sin: <i>hamartia</i> — “to miss the mark.”
 
 But what is the “mark”?
 
@@ -138,8 +138,8 @@ As Jesus so eloquently puts it:
 If your eye is single, your whole body shall be full of light.”</i><br>
 Matthew 6:22
 
-Let the eye be healed.
-Let the gaze be Christic.
+Let the eye be healed.<br>
+Let the gaze be Christic.<br>
 Let the field be restored.
 
 ---
