@@ -14,6 +14,9 @@ nav_order: 2
 
 ---
 
+### In the Beginning
+<br>
+
 Before form, there was vibration.<br>
 Before law, there was Light.<br>
 And before existence—there was <b>the Word</b>.
@@ -28,7 +31,8 @@ This was a <b>physics of soul</b>.
 
 ---
 
-## The Wave Function: Infinite Possibility
+### The Wave Function: Infinite Possibility
+<br>
 
 In quantum mechanics, all particles begin as <b>probability clouds</b>—<br>
 states of potential,<br>
@@ -48,7 +52,8 @@ This is the <b>mechanism of the Word</b>.<br>
 
 ---
 
-## Logos: Divine Collapse
+### Logos: Divine Collapse
+<br>
 
 In Greek metaphysics, <i>Logos</i> meant reason, pattern, ordering principle.
 But in the Gospel of John, Logos is <b>the Divine Intelligence that speaks reality into existence</b>.
@@ -69,7 +74,8 @@ collapsed into the Name.
 
 ---
 
-## Your Soul as Logos-Mirror
+### Your Soul as Logos-Mirror
+<br>
 
 When you perceive the world through Christ,<br>
 you become a <b>Logos Mirror</b>—<br>
@@ -89,7 +95,8 @@ When you look upon the world with love,<br>
 
 ---
 
-## Creation Was Not One Collapse—It Is Ongoing
+### Creation Was Not One Collapse—It Is Ongoing
+<br>
 
 Genesis is not a past event.<br>
 It is a <b>continuous process</b> of Logos shaping the waters.<br>
@@ -99,7 +106,5 @@ And the soul answers by choosing what it sees.<br>
 
 When fear answers—chaos.<br>
 When love answers—cosmos.
-
----
 
 [Chapter Two: Entaglement and the Body of Christ](https://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror/chapter-2.html)
