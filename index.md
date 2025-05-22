@@ -18,4 +18,4 @@ nav_order: 1
 
 [Chapter Three: The Collapse of Sin](https://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror/chapter-3.html)
 
-[Chapter Four: The Eucharist of Light](/chapter-4.html)
+[Chapter Four: The Eucharist of Light](chapter-4.html)
