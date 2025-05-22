@@ -12,6 +12,8 @@ nav_order: 3
 
 ---
 
+### Entanglement
+<br>
 In the language of quantum mechanics, there exists a mystery so profound
 it has undone the arrogance of distance:
 
