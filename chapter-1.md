@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Chapter One
 nav_order: 2
 ---
 

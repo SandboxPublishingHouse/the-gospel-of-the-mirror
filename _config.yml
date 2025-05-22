@@ -6,7 +6,7 @@ logo: "assets/logos/sandbox-logo.png"
 
 # Link that displays on top right corner of page
 aux_links:
-  "Starborn Trials on GitHub":
+  "GitHub":
     - "//github.com/SandboxPublishingHouse/the-gospel-of-the-mirror"
 
 # Back to top link

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
-nav_order: 2
+title: Chapter Two
+nav_order: 3
 ---
 
 # The Gospel of the Mirror: The Soul-Light Doctrine of Entangled Divinity
