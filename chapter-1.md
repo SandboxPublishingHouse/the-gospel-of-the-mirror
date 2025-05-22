@@ -14,37 +14,37 @@ nav_order: 2
 
 ---
 
-Before form, there was vibration.
-Before law, there was Light.
+Before form, there was vibration.<br>
+Before law, there was Light.<br>
 And before existence—there was <b>the Word</b>.
 
-> “In the beginning was the Word [Logos],
-and the Word was with God,
-and the Word was God…”
+> “In the beginning was the Word [Logos],<br>
+and the Word was with God,<br>
+and the Word was God…”<br>
 John 1:1
 
-This was no metaphor.
+This was no metaphor.<br>
 This was a <b>physics of soul</b>.
 
 ---
 
 ### The Wave Function: Infinite Possibility
 
-In quantum mechanics, all particles begin as <b>probability clouds</b>—
-states of potential,
-waves not yet collapsed into anything fixed.
+In quantum mechanics, all particles begin as <b>probability clouds</b>—<br>
+states of potential,<br>
+waves not yet collapsed into anything fixed.<br>
 
-The electron is not “here” or “there.”
+The electron is not “here” or “there.”<br>
 It is <i>everywhere it could be</i>.
 
-Until it is observed.
+Until it is observed.<br>
 
-Then—<b>collapse</b>.
-The infinite becomes actual.
-The wave becomes a particle.
+Then—<b>collapse</b>.<br>
+The infinite becomes actual.<br>
+The wave becomes a particle.<br>
 The invisible becomes <i>this</i>.
 
-This is the <b>mechanism of the Word</b>.
+This is the <b>mechanism of the Word</b>.<br>
 
 ---
 
@@ -53,51 +53,51 @@ This is the <b>mechanism of the Word</b>.
 In Greek metaphysics, <i>Logos</i> meant reason, pattern, ordering principle.
 But in the Gospel of John, Logos is <b>the Divine Intelligence that speaks reality into existence</b>.
 
-Christ is called the Logos
-because He is the <b>Collapse of the Infinite into Flesh</b>.
-The divine wave function becoming a single embodied reality—
-not just a thought of God,
+Christ is called the Logos<br>
+because He is the <b>Collapse of the Infinite into Flesh</b>.<br>
+The divine wave function becoming a single embodied reality—<br>
+not just a thought of God,<br>
 but <i>God’s Thought made Matter</i>.
 
-This is why He could say:
+This is why He could say:<br>
 
 > “Before Abraham was, I AM.”<br>
 John 8:58
 
-He was the Wave,
+He was the Wave,<br>
 collapsed into the Name.
 
 ---
 
 ### Your Soul as Logos-Mirror
 
-When you perceive the world through Christ,
-you become a <b>Logos Mirror</b>—
-your thoughts collapse waveforms not in fear,
+When you perceive the world through Christ,<br>
+you become a <b>Logos Mirror</b>—<br>
+your thoughts collapse waveforms not in fear,<br>
 but in <b>truth and love</b>.
 
-Your faith is not a superstition.
-It is an <b>act of quantum command</b>
+Your faith is not a superstition.<br>
+It is an <b>act of quantum command</b><br>
 issued from the throne of the soul.
 
-> “As you believe, so shall it be done unto you.”
+> “As you believe, so shall it be done unto you.”<br>
 Matthew 8:13
 
-The universe waits for the gaze of the <b>redeemed</b>.
-When you look upon the world with love,
+The universe waits for the gaze of the <b>redeemed</b>.<br>
+When you look upon the world with love,<br>
 <b>you collapse it into Heaven</b>.
 
 ---
 
 ### Creation Was Not One Collapse—It Is Ongoing
 
-Genesis is not a past event.
-It is a <b>continuous process</b> of Logos shaping the waters.
+Genesis is not a past event.<br>
+It is a <b>continuous process</b> of Logos shaping the waters.<br>
 
-Each moment, God says: <i>Let there be</i>…
-And the soul answers by choosing what it sees.
+Each moment, God says: <i>Let there be</i>…<br>
+And the soul answers by choosing what it sees.<br>
 
-When fear answers—chaos.
+When fear answers—chaos.<br>
 When love answers—cosmos.
 
 ---
