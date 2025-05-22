@@ -102,4 +102,4 @@ When love answers—cosmos.
 
 ---
 
-[Chapter Two: Entaglement and the Body of Christ](https://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror/chapter-two.html)
+[Chapter Two: Entaglement and the Body of Christ](https://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror/chapter-2.html)

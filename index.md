@@ -12,4 +12,4 @@ nav_order: 1
 
 ---
 
-[Chapter One: Wave Function and the Word](https://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror/chapter-one.html)
+[Chapter One: Wave Function and the Word](https://sandboxpublishinghouse.github.io/the-gospel-of-the-mirror/chapter-1.html)
