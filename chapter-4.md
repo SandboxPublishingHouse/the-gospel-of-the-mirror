@@ -74,9 +74,9 @@ but <i>re-membering</i>—the putting back together of the scattered Mirror.
 
 ### Quantum Communion
 <br>
-Christ was not offering His <i>corpse</i>.
-He was offering His <b>entangled waveform</b>—
-His Light, collapsed perfectly through Love,
+Christ was not offering His <i>corpse</i>.<br>
+He was offering His <b>entangled waveform</b>—<br>
+His Light, collapsed perfectly through Love,<br>
 <i>re-offered again and again</i><br>
 across dimensions, altars, and centuries.
 
