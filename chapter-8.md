@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chapter Eight
-nav_order: 9
+nav_order: 11
 ---
 
 # The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity

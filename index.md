@@ -12,6 +12,8 @@ nav_order: 1
 
 ---
 
+[Preface: The Return of the Mirror](preface.html)
+
 [Chapter One: Wave Function and the Word](chapter-1.html)
 
 [Chapter Two: Entaglement and the Body of Christ](chapter-2.html)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chapter Three
-nav_order: 4
+nav_order: 6
 ---
 
 # The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
