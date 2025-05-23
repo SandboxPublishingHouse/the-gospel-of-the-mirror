@@ -31,3 +31,5 @@ nav_order: 1
 [Pillar VII: The Trinity of Perception](chapter-7.html)
 
 [Pillar VIII: The New Heaven, The New Earth](chapter-8.html)
+
+[Conclusion: The Mirror Sent Forth](conclusion.html)
