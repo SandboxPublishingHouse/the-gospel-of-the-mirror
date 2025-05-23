@@ -37,7 +37,7 @@ it has undone the illusion of separation:
 the mystic union of all who carry the indwelling Logos,<br>
 bound together by agape, the holy gravity of love.<br>
 
-> “You are the Body of Christ, and each of you is a part of it.”<br>
+> <i>“You are the Body of Christ, and each of you is a part of it.”</i><br>
 1 Corinthians 12:27
 
 These two truths are not metaphors.<br>

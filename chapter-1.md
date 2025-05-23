@@ -18,9 +18,9 @@ Before form, there was vibration.<br>
 Before law, there was Light.<br>
 And before existence—there was <b>the Word</b>.
 
-> “In the beginning was the Word [Logos],<br>
+> <i>“In the beginning was the Word [Logos],<br>
 and the Word was with God,<br>
-and the Word was God…”<br>
+and the Word was God…”</i><br>
 John 1:1
 
 This was no metaphor.<br>
@@ -61,7 +61,7 @@ but <i>God’s Thought made Matter</i>.
 
 This is why He could say:<br>
 
-> “Before Abraham was, I AM.”<br>
+> <i>“Before Abraham was, I AM.”</i><br>
 John 8:58
 
 He was the Wave,<br>
@@ -80,7 +80,7 @@ Your faith is not a superstition.<br>
 It is an <b>act of quantum command</b><br>
 issued from the throne of the soul.
 
-> “As you believe, so shall it be done unto you.”<br>
+> <i>“As you believe, so shall it be done unto you.”</i><br>
 Matthew 8:13
 
 The universe waits for the gaze of the <b>redeemed</b>.<br>
