@@ -12,6 +12,8 @@ nav_order: 8
 
 ---
 
+### A Three-Fold Holistic Perception
+
 > <i>“God is Light; in Him there is no darkness at all.”</i><br>
 1 John 1:5
 
