@@ -112,3 +112,5 @@ and the act of seeing has become a weapon,<br>
 not a communion.
 
 ---
+
+[Chapter Eight: The New Heaven, The New Earth](chapter-8.html)
