@@ -88,4 +88,4 @@ you carry in your chest.
 
 ---
 
-<!-- [Chapter Two: Entaglement and the Body of Christ](chapter-2.html) -->
+[Introduction: How to Read the Mirror](introduction.html)

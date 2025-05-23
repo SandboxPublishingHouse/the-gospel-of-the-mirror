@@ -14,6 +14,8 @@ nav_order: 1
 
 [Preface: The Return of the Mirror](preface.html)
 
+[Introduction: How to Read the Mirror](introduction.html)
+
 [Pillar I: Wave Function and the Word](chapter-1.html)
 
 [Pillar II: Entaglement and the Body of Christ](chapter-2.html)
