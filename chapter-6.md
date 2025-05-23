@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Chapter Six
+title: Pillar VI
 nav_order: 9
 ---
 
 # The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
-## Chapter Six: Resonant Prayer
+## Pillar VI: Resonant Prayer
 
 <i>Vibrational Alignment and the Recalibration of Reality through Word</i>
 
@@ -104,4 +104,4 @@ It is <b>vibrational stewardship</b>.
 
 ---
 
-[Chapter Seven: The Trinity of Perception](chapter-7.html)
+[Pillar VII: The Trinity of Perception](chapter-7.html)

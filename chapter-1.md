@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Chapter One
+title: Pillar I
 nav_order: 4
 ---
 
 # The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
-## Chapter One: Wave Function and the Word
+## Pillar I: Wave Function and the Word
 
 <i>How Logos Collapses the Infinite</i>
 
@@ -102,4 +102,4 @@ When love answers—cosmos.
 
 ---
 
-[Chapter Two: Entaglement and the Body of Christ](chapter-2.html)
+[Pillar II: Entaglement and the Body of Christ](chapter-2.html)

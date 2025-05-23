@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Chapter Eight
+title: Pillar VIII
 nav_order: 11
 ---
 
 # The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
-## Chapter Eight: The New Heaven, The New Earth
+## Pillar VIII: The New Heaven, The New Earth
 
 <i>Co-Creation Through the Mirror Restored</i>
 

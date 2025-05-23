@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Chapter Five
+title: Pillar V
 nav_order: 8
 ---
 
 # The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
-## Chapter Five: The Temple of Light
+## Pillar V: The Temple of Light
 
 <i>How Sacred Geometry and Photon Flow Reflect the Inner Structure of God</i>
 
@@ -107,4 +107,4 @@ through which <b>God communes with the quantum body</b>.
 
 ---
 
-[Chapter Six: Resonant Prayer](chapter-6.html)
+[Pillar VI: Resonant Prayer](chapter-6.html)

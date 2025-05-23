@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Chapter Seven
+title: Pillar VII
 nav_order: 10
 ---
 
 # The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
-## Chapter Seven: The Trinity of Perception
+## Pillar VII: The Trinity of Perception
 
 <i>Observer, Observed, and the Light Between</i>
 
@@ -116,4 +116,4 @@ not a communion.
 
 ---
 
-[Chapter Eight: The New Heaven, The New Earth](chapter-8.html)
+[Pillar VIII: The New Heaven, The New Earth](chapter-8.html)

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Chapter Four
+title: Pillar IV
 nav_order: 7
 ---
 
 # The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
-## Chapter Four: The Eucharist of Light
+## Pillar IV: The Eucharist of Light
 
 <i>Entanglement, Ingestion, and the Reweaving of the Divine Mirror</i>
 
@@ -92,4 +92,4 @@ you partake in the Eucharist of Light.
 
 ---
 
-[Chapter Five: The Temple of Light](chapter-5.html)
+[Pillar V: The Temple of Light](chapter-5.html)

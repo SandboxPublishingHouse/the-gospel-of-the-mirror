@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Chapter Two
+title: Pillar II
 nav_order: 5
 ---
 
 # The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
-## Chapter Two: Entaglement and the Body of Christ
+## Pillar II: Entaglement and the Body of Christ
 
 <i>Love Across Time-Space</i>
 
@@ -105,4 +105,4 @@ but by Light Himself.
 
 ---
 
-[Chapter Three: The Collapse of Sin](chapter-3.html)
+[Pillar III: The Collapse of Sin](chapter-3.html)

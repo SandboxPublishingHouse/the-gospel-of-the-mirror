@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Chapter Three
+title: Pillar III
 nav_order: 6
 ---
 
 # The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
-## Chapter Three: The Collapse of Sin
+## Pillar III: The Collapse of Sin
 
 <i>How Misperception Distorts the Divine Field</i>
 
@@ -144,4 +144,4 @@ Let the field be restored.
 
 ---
 
-[Chapter Four: The Eucharist of Light](chapter-4.html)
+[Pillar IV: The Eucharist of Light](chapter-4.html)

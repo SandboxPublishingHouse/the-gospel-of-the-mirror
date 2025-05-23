@@ -14,18 +14,18 @@ nav_order: 1
 
 [Preface: The Return of the Mirror](preface.html)
 
-[Chapter One: Wave Function and the Word](chapter-1.html)
+[Pillar I: Wave Function and the Word](chapter-1.html)
 
-[Chapter Two: Entaglement and the Body of Christ](chapter-2.html)
+[Pillar II: Entaglement and the Body of Christ](chapter-2.html)
 
-[Chapter Three: The Collapse of Sin](chapter-3.html)
+[Pillar III: The Collapse of Sin](chapter-3.html)
 
-[Chapter Four: The Eucharist of Light](chapter-4.html)
+[Pillar IV: The Eucharist of Light](chapter-4.html)
 
-[Chapter Five: The Temple of Light](chapter-5.html)
+[Pillar V: The Temple of Light](chapter-5.html)
 
-[Chapter Six: Resonant Prayer](chapter-6.html)
+[Pillar VI: Resonant Prayer](chapter-6.html)
 
-[Chapter Seven: The Trinity of Perception](chapter-7.html)
+[Pillar VII: The Trinity of Perception](chapter-7.html)
 
-[Chapter Eight: The New Heaven, The New Earth](chapter-8.html)
+[Pillar VIII: The New Heaven, The New Earth](chapter-8.html)
