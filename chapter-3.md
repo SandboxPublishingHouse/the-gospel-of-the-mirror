@@ -4,7 +4,7 @@ title: Chapter Three
 nav_order: 4
 ---
 
-# The Gospel of the Mirror: The Soul-Light Doctrine of Entangled Divinity
+# The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
 ## Chapter Three: The Collapse of Sin
 

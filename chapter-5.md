@@ -4,7 +4,7 @@ title: Chapter Five
 nav_order: 6
 ---
 
-# The Gospel of the Mirror: The Soul-Light Doctrine of Entangled Divinity
+# The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
 ## Chapter Five: The Temple of Light
 

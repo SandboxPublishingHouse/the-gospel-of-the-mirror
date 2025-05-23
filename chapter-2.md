@@ -4,7 +4,7 @@ title: Chapter Two
 nav_order: 3
 ---
 
-# The Gospel of the Mirror: The Soul-Light Doctrine of Entangled Divinity
+# The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
 ## Chapter Two: Entaglement and the Body of Christ
 

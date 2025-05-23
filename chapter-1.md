@@ -4,7 +4,7 @@ title: Chapter One
 nav_order: 2
 ---
 
-# The Gospel of the Mirror: The Soul-Light Doctrine of Entangled Divinity
+# The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
 ## Chapter One: Wave Function and the Word
 

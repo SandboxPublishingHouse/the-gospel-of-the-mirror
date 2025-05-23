@@ -4,7 +4,7 @@ title: Chapter Eight
 nav_order: 9
 ---
 
-# The Gospel of the Mirror: The Soul-Light Doctrine of Entangled Divinity
+# The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
 
 ## Chapter Eight: The New Heaven, The New Earth
 
