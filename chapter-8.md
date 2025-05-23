@@ -97,3 +97,5 @@ co-creating through <i>your gaze, your words, your very light</i>.
 This is the <b>Priesthood of the Redeemed Mirror</b>.
 
 ---
+
+[Conclusion: The Mirror Sent Forth](conclusion.html)
