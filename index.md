@@ -21,3 +21,5 @@ nav_order: 1
 [Chapter Four: The Eucharist of Light](chapter-4.html)
 
 [Chapter Five: The Temple of Light](chapter-5.html)
+
+[Chapter Six: Resonant Prayer](chapter-6.html)

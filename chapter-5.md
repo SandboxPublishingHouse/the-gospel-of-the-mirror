@@ -106,3 +106,5 @@ They are <b>biophysical altars</b><br>
 through which <b>God communes with the quantum body</b>.
 
 ---
+
+[Chapter Six: Resonant Prayer](chapter-6.html)
