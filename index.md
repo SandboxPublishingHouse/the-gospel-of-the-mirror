@@ -5,10 +5,8 @@ nav_order: 1
 ---
 
 # The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity
-{: .no_toc .fs-9 }
 
 ## Table of Contents
-{: .fs-6 .fw-300 }
 
 ---
 
