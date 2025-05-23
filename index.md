@@ -19,3 +19,5 @@ nav_order: 1
 [Chapter Three: The Collapse of Sin](chapter-3.html)
 
 [Chapter Four: The Eucharist of Light](chapter-4.html)
+
+[Chapter Five: The Temple of Light](chapter-5.html)

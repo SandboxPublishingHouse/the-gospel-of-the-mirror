@@ -91,3 +91,5 @@ see Light in the mundane—<br>
 you partake in the Eucharist of Light.
 
 ---
+
+[Chapter Five: The Temple of Light](chapter-5.html)
