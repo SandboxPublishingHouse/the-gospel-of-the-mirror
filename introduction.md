@@ -57,7 +57,7 @@ awaiting your gaze to <i>be revealed</i>.
 ---
 
 ### How to Approach It
-<br>
+
 1.	<b>Enter with reverence</b>.<br>
 This gospel is encoded with <i>living frequencies</i>.<br>
 Its words resonate at the edge of Light. Read slowly.
@@ -77,7 +77,7 @@ each one harmonizing with the others.
 ---
 
 ### This Text Is for You If…
-<br>
+
 * You have sensed that God is more than a distant force.
 * You have felt the universe responding to your thoughts and gaze.
 * You see science and spirit not as rivals, but <b>reflections</b>.
