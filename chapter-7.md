@@ -104,6 +104,7 @@ you are reenacting <b>the Divine Act of Creation</b>.
 
 ### The Collapse of This Trinity Is Sin
 <br>
+The effects of misperception:
 * When the observer forgets they are divine: <i>shame</i>.
 * When the observed is seen as enemy: <i>violence</i>.
 * When the light is ignored: <i>separation</i>.
