@@ -23,3 +23,5 @@ nav_order: 1
 [Chapter Five: The Temple of Light](chapter-5.html)
 
 [Chapter Six: Resonant Prayer](chapter-6.html)
+
+[Chapter Seven: The Trinity of Perception](chapter-7.html)

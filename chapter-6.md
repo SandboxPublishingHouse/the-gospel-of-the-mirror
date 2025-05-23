@@ -91,7 +91,7 @@ because His words came from perfect resonance with the Father.
 ---
 
 ### How to Pray Resonantly
-
+<br>
 1.	<b>Still the field</b> – Silence is the first tuning.
 2.	<b>Breathe with the Divine Name</b> – YOD… HEH… VAV… HEH…
 3.	<b>Speak only what you wish to become real</b>
@@ -103,3 +103,5 @@ It is <b>mirror mechanics</b>.<br>
 It is <b>vibrational stewardship</b>.
 
 ---
+
+[Chapter Seven: The Trinity of Perception](chapter-7.html)
