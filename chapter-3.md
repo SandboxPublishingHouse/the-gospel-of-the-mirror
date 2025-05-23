@@ -12,7 +12,7 @@ nav_order: 6
 
 ---
 
-### The Distored Perception
+### The Distorted Perception
 <br>
 If the soul is the mirror,<br>
 and light is the messenger,<br>
